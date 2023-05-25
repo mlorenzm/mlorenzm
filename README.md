@@ -16,3 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlorenzm&show_icons=true&locale=en&layout=compact" alt="mlorenzm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlorenzm&show_icons=true&locale=en" alt="mlorenzm" /></p>
+
+
+Profile picture by [Grads V2](https://www.charco.design/grads-v2)
